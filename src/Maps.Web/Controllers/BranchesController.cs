@@ -1,4 +1,4 @@
-﻿using Maps.Data;
+﻿using Maps.src.Maps.Infrastructure.Data;
 using Maps.src.Maps.Core.Interfaces;
 using Maps.src.Maps.Core.Models;
 using Microsoft.AspNetCore.Mvc;
